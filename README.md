@@ -2,7 +2,7 @@
 
 I am Zorowork
 
-Currently developing my own AI discord chatbot (Lizzie)
+Currently developing my own AI discord chatbot
 
 Working on some other secret projects 🤫
 
